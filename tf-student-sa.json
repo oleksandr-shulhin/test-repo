@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-lab-host-project",
+  "private_key_id": "40e4b31a9949457d9c1e15e403eb8bbf139c4696",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9e8i2KVlO7nA4\nnkWCcPa8iHbyaUMcMyaLro4W9e0ovY5ZAwpKC4uyizVNC0YtMSa6O8ktdkhD+l9d\ndxWevrtAVj9QYUns2HrExhKKYIxS2kJ0q3wNvm5teHqRE6e/JVq4/utTUcdjmlJi\nW50FAH4H8eMrexowLUFdT3DAeD/DiszU69JvOta4v6yRrIrd/KkBUl2M0V/MgO++\nSJ/qVwRmRIWm/rI28280pK+/JtA/WJj7eXNcQ482HbKjKs27JZc0gYlsomAqRSZc\nughS78GxjPYG1uQP/CiSoTVDItDd5VuZxw3v9mdO7T4+u7AwpCjNGi+MUwhR/OSE\nmQHsJSyzAgMBAAECggEADZJhEqJM88lCf3bfdEbcEJS9R4Kmz5orgupXSHZUuZjO\nKjqWBGF/hlcDOjstZRpCpsJjSyuc/hJGV173gCqZv4BBKH3RBv/zo/l3i+X7cKNf\nPchBalVllApPmRzG/i44qWYU4lLJ5pMmOHmAYMKjkRuDUaXcS9WwYcF8lxFl28vY\nAp2FkFqPpw6Mg3kQEaZRwhQlNagK3/TLlQnT12Vh7X/OXShawg0TNLWXyxbsV97h\nDDwAgTSs1gzvXQWI7nugxf8ZdzfYERw9ZheeGEcyNukVdSKd7NqxgVoGg6ZjdnwY\n5kQKQXNYx36OiZ5v7OT/eUJ6Me8XTIr4qzN0pZR+TQKBgQDlomAfB+cXzT+0f29V\nw6j7v3FumF6zlmBqDFo3EeS8h91kLXrkCyhSy6NArMkjsLshN+sGMBvAUN8Zgpgz\nlGBXEqmd+iZ6ZMabOHcRX2oslpkfTH9oU1LponaZpARacPktBS0sZynk5LFv5KfZ\n63CYRElvwDODsC+a5OrRMNwaVwKBgQDTPUKpQBCdzISArFa+nxuNhGWM8niLacki\n4OGbAGBzkeRFt1eJhSkfmJEl/8o0l+grxZ14kJMiQjbskg1qYcU1kpU2ceT6uLBS\n8KLqvaJ+H4toku3327aVDeoZNawkc/tWqVE/gFh3Bocm6kM4rKDzRQuoFvbhkOAY\nu7X8icT/BQKBgQCXECedokxDGzHiYsbyK6H54uoTMEd0auOIQBIFEk9gOxzIbybd\n5/0h4nbF8CTtxrCD3M5Ops1KyajKll/b5qst/Mf6dfpkH/GLYSzrD9K//F5E+cUC\n83Wi3s6Yqg53FMTG+hXKlR85Rbz4d/p34GuUr6+DxXPeGMRoaFmVPkg9RwKBgH5L\nfyKQEh82WvZPk6FuoVuQD+MgSSAZRE9dIqW4qPIQBOoFvwmSms6wOf/9GdkuBXq+\nMPMXhVCTRCFXBTxYbj8kf5/Ior2gVJOSGeW9MXy0wXXpeuuY6mXdptwhseUtjtT2\ncIRF6R5owb9rintFAwnPezOpXzvnkYRYHmt5t1U9AoGAddHMnOYk/FT4drs0utqH\n/hJx6zQMrhSZ0f2nZPveEdo2oV0Mwm8cK5akzOirWY+PBzWYRu7rTiq9OALHE0jg\n5B0oZUhC2NQEJBA48q+DDrCVJ5Y6PxTcpz4xkm914HXU+BROSTs+X4CCjuKP+Mqs\nk9/hPy1QXaHPrS0RWkShqn8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tf-host-student-sa@gcp-lab-host-project.iam.gserviceaccount.com",
+  "client_id": "114090178023921856118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tf-host-student-sa%40gcp-lab-host-project.iam.gserviceaccount.com"
+}
